@@ -1,6 +1,4 @@
-# CodeAnt AI Project Assignment
-
-# Images of the App :memo:
+# Images of the Assignment :memo:
 ![1](https://github.com/user-attachments/assets/2d8e8375-1325-4274-9b4c-f098b47a0970)
 ![2](https://github.com/user-attachments/assets/e51a74d9-f754-470f-ac4a-1a7d5d856da3)
 ![3](https://github.com/user-attachments/assets/a2d6ea23-be6a-47a3-b325-ce2457113a36)
