@@ -49,3 +49,10 @@ npm run dev
 
 ### Step 2: Access the Application
 Open your web browser and go to http://localhost:5173/ to access the App.
+
+
+
+### Note:
+* The backend is not implemented as part of this project. Only the frontend is functional at this stage.
+* Future updates may include backend integration and database support.
+
