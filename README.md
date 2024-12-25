@@ -27,7 +27,7 @@ Ensure you have the following installed on your machine:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/yashwantkumaar/CodeAnt_Assignment.git
 ```
 
 ### Step 2: Navigate to the Project Directory
