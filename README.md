@@ -1,11 +1,13 @@
 # CodeAnt AI Project Assignment
 
 # Images of the App :memo:
-![1](https://github.com/user-attachments/assets/690b306d-8b9b-42fb-96b8-6a9c6323969e)
-![2](https://github.com/user-attachments/assets/8ac8a9b4-6a5a-4e47-8c5a-7df715e9c4e0)
-![3](https://github.com/user-attachments/assets/3616a3b6-01f7-4f5b-85a3-49d0c90a884b)
-![4](https://github.com/user-attachments/assets/f2a3b7b7-cea3-4992-9070-4d791eba0e4f)
-![5](https://github.com/user-attachments/assets/9e90d404-c643-455a-841d-279bb7fc88c7)
+![1](https://github.com/user-attachments/assets/2d8e8375-1325-4274-9b4c-f098b47a0970)
+![2](https://github.com/user-attachments/assets/e51a74d9-f754-470f-ac4a-1a7d5d856da3)
+![3](https://github.com/user-attachments/assets/a2d6ea23-be6a-47a3-b325-ce2457113a36)
+![4](https://github.com/user-attachments/assets/8d450269-bf70-4bb6-a95e-c734846c6fd8)
+![5](https://github.com/user-attachments/assets/b544a253-4333-479c-b17f-b0d1040ba2ed)
+
+
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
